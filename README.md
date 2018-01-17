@@ -3,7 +3,7 @@
 
 ### Game Name : 
 # GoMerida!
-# Help Merida with her mission of collecting diamonds.
+### Help Merida with her mission of collecting diamonds.
 
 ### Member1 : Manvitha Challagundla
 ### Member2 : Sanjay Karnati
